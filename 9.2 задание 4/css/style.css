@@ -1,0 +1,47 @@
+body{
+ 
+   font-size: 18px;
+   width: 620px;
+   margin:50px auto;
+}
+.menu{
+   margin: 0 auto;
+   text-align: center;
+   
+}
+label{
+   display: block;
+   
+}
+.input{
+   width: 193px;
+   height: 30px;
+   margin: 0px 0px 20px 10px;
+}
+.button{
+   width: 200px;
+   height: 40px;
+   display: block;
+   background: #9ed2d7;
+   transition: 500ms;
+   margin: 0 auto;
+   margin-bottom: 20px;
+   
+}
+.button:hover{
+   background: #35c6d3;
+
+}
+.div{
+   display: grid;
+   grid-template-columns: 200px 200px 200px;
+   grid-column-gap: 20px ;
+}
+.card-image{
+   width: 200px;
+  
+   
+}
+.author{
+   font-size: 15px;
+}
